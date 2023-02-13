@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PowerIcon
 //
-//  Created by 小松田晴 on 2023/02/13.
+//  Created by harehare on 2023/02/13.
 //
 
 import UIKit
