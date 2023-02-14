@@ -3,4 +3,4 @@
                
                
                
-               ![PowerIcon.png](https://github.com/sunnyman5/PowerIcon.git_PowerIcon.png)
+               ![PowerIcon.png](https://github.com/sunnyman5/PowerIcon.git./PowerIcon/PowerIcon.png)
