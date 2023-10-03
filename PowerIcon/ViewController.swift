@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         //Storyboardのバックグラウンドカラーをグリーンに変更する
-        view.backgroundColor = .systemGreen
+        view.backgroundColor = .systemBlue
     }
 }
 //Xcode15からプレビューを表示させるコード
