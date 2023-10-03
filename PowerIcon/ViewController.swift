@@ -14,9 +14,10 @@ class ViewController: UIViewController {
         
         //Storyboardのバックグラウンドカラーをグリーンに変更する
         view.backgroundColor = .systemGreen
-        
     }
-    
-    
+}
+//Xcode15からプレビューを表示させるコード
+#Preview("UIKit") {
+    ViewController()
 }
 
